@@ -10,4 +10,4 @@ Following are the steps to implement this system:
   - Copy the encodings.pkl file in the encodings folder of Attendance Module
   - Now you are good to go and run the main file.
 
-3.Rest of files were used for training the FER Module
+3. Rest of files were used for training the FER Module
