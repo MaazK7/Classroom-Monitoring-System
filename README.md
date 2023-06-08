@@ -12,3 +12,5 @@ Following are the steps to implement this system:
   - runfile.py was used to make this system run on Raspberry Pi 3B
 
 3. Rest of files were used for training the FER Module
+
+![Pic1](https://github.com/MaazK7/Classroom-Monitoring-System/assets/115479920/32e237a3-96c5-4455-9228-2c0d12fe8c9d)
